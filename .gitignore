@@ -75,3 +75,6 @@ $RECYCLE.BIN/
 # Windows shortcuts
 *.lnk
 *.lnk.meta
+CHALLANGE/Logs/Packages-Update.log
+CHALLANGE/Packages/manifest.json
+CHALLANGE/ProjectSettings/ProjectVersion.txt
